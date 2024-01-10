@@ -291,7 +291,6 @@ STIR is in base stir.
 The result should be in base bestchol
 
 Repo:
-
 GitHub repository: alx-system_engineering-devops
 Directory: 0x03-shell_variables_expansions
 File: 103-water_and_stir
