@@ -54,7 +54,6 @@ mandatory
 Write a Bash script that displays a list of currently running processes.
 
 Requirements:
-
 Must show all processes, for all users, including those which might not have a TTY
 Display in a user-oriented format
 Show process hierarchy
@@ -86,9 +85,7 @@ Write a Bash script that displays the PID, along with the process name, of proce
 Requirements:
 You cannot use ps
 
-
 Here we can see that:
-
 For the first iteration: bash PID is 4404 and that the 3-show_your_bash_pid_made_easy script PID is 4555
 For the second iteration: bash PID is 4404 and that the 3-show_your_bash_pid_made_easy script PID is 4557
 Repo:
@@ -97,15 +94,12 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x05-processes_and_signals
 File: 3-show_your_bash_pid_made_easy
 
-
 4. To infinity and beyond
 mandatory
 Write a Bash script that displays To infinity and beyond indefinitely.
 
 Requirements:
-
 In between each iteration of the loop, add a sleep 2
-
 Note that I ctrl+c (killed) the Bash script in the example.
 
 Repo:
