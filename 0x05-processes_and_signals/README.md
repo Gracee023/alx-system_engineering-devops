@@ -64,7 +64,7 @@ File: 1-list_your_processes
    
 2. Show your Bash PID
 mandatory
-Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
+Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process
 
 Requirements:
 You cannot use pgrep
@@ -129,24 +129,20 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x05-processes_and_signals
 File: 5-dont_stop_me_now
 
-
 6. Stop me if you can
 mandatory
 Write a Bash script that stops 4-to_infinity_and_beyond process.
 
 Requirements:
-
 You cannot use kill or killall
 Terminal #0
 
 I opened 2 terminals in this example, started by running my 4-to_infinity_and_beyond Bash script in terminal #0 and then moved on terminal #1 to run 6-stop_me_if_you_can. We can then see in terminal #0 that my process has been terminated.
 
 Repo:
-
 GitHub repository: alx-system_engineering-devops
 Directory: 0x05-processes_and_signals
 File: 6-stop_me_if_you_can
-
 
 7. Highlander
 mandatory
@@ -167,7 +163,6 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x05-processes_and_signals
 File: 7-highlander
 
-
 8. Beheaded process
 mandatory
 Write a Bash script that kills the process 7-highlander.
@@ -177,7 +172,6 @@ Terminal #0
 I started 7-highlander in Terminal #0 and then run 8-beheaded_process in terminal #1 and we can see that the 7-highlander has been killed.
 
 Repo:
-
 GitHub repository: alx-system_engineering-devops
 Directory: 0x05-processes_and_signals
 File: 8-beheaded_process
@@ -249,8 +243,6 @@ File: 101-manage_my_process, manage_my_process
 
 11. Zombie
 #advanced
-
-
 Read what a zombie process is.
 
 Write a C program that creates 5 zombie processes.
@@ -268,5 +260,3 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x05-processes_and_signals
 File: 102-zombie.c
-
-
